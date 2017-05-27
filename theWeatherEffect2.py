@@ -7,7 +7,7 @@ def main():
     Run load_forecast() with the given lat, lng, and time arguments.
     """
 
-    api_key = "b33d8c80314ec37ccc9741aa81362839"
+    api_key = "XXXXXXX"
 
     lat = -31.967819
     lng = 115.87718
